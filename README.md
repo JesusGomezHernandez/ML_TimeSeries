@@ -3,8 +3,8 @@ In this repo you can find two  different ways to deal with time series. In this 
 
 En este repositorio se pueden encontrar dos maneras diferentes de tratar las series temporales. En este caso vamos a intentar predecir la tasa media mensual de desempleo nacional en España.    
 
-[ARIMA_model](https://github.com/JesusGomezHernandez/ML_TimeSeries/tree/master/ARIMA_model)    
-[LSTM_model](https://github.com/JesusGomezHernandez/ML_TimeSeries/tree/master/LSTM_model)
+[Modelo de autoregresión ARIMA](https://github.com/JesusGomezHernandez/ML_TimeSeries/tree/master/ARIMA_model)    
+[Modelo con una red neuronal recurrente LSTM](https://github.com/JesusGomezHernandez/ML_TimeSeries/tree/master/LSTM_model)
 
 
 
