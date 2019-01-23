@@ -5,11 +5,11 @@ Este cuaderno se ha elaborado en R. Dentro del cuaderno se describe el fundament
 
 ![Image](./Images/output_7_1.png)
 
-![Image](./Images/serie_temporal.png)
+![Image](./Images/Serie_temporal.png)
 
 ![Image](./Images/output_15_1.png)
 
 ![Image](./Images/output_26_1.png)
 
-![Image](./Images/output_30_1.png)
+![Image](./Images/output_30_0.png)
 
