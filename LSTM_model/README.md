@@ -1,5 +1,5 @@
-##Predicción de la tasa de desempleo nacional para el año 2018
-###Series temporales - LSTM NN
+## Predicción de la tasa de desempleo nacional para el año 2018
+### Series temporales - LSTM NN
 
 Este es el resultado obtenido para la predicción de Enero a Noviembre y de Julio a Noviembre.
 
